@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="[https://i.imgur.com/tYapzOE.png](https://i.imgur.com/IQl4vgZ.png)" alt="Gui" width="400" />
+  <img src="https://i.imgur.com/IQl4vgZ.png" alt="Gui" width="400" />
 </p>
 
 ## 🔥 Why TraffGain?

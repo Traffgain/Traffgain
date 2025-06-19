@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=traffgain.traffgain.readme) 
 
 <p align="center">
-  <img src="https://i.imgur.com/tYapzOE.png" alt="Logo" width="200" />
+  <img src="https://i.imgur.com/tYapzOE.png" alt="Logo" width="400" />
 </p>
 
 

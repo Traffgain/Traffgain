@@ -1,73 +1,125 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=traffgain.traffgain.readme) 
 
-# TraffGain – Social Media Automation Tool
+# TraffGain – Advanced Instagram & Facebook Automation Tool
 
-**TraffGain** is a powerful **Instagram bot**, **Facebook bot**, and **Fanpage automation tool** built for advanced social media automation — all running **locally from your own computer**. No cloud, no shared servers — full control with the ability to use your own proxies and automate **unlimited accounts** safely.
+> The most complete **Facebook bot** & **Instagram bot** for local, safe and scalable social media automation.
 
-💻 Built for creators, marketers, and power users who want hands-free management of their **Instagram**, **Facebook profiles**, and **Facebook fanpages**.
+---
 
-🌐 More info: [www.traffgain.com](https://traffgain.com)  
-💬 Discord: [Join our community](https://discord.gg/3GeG5wr8mH)  
+## 🔥 Why TraffGain?
+
+**TraffGain** is a next-generation **social media automation platform** built for creators, marketers, agencies, and power users who want to scale their presence on **Facebook**, **Instagram**, and **Facebook Fanpages** – all directly from their own machine.
+
+Unlike cloud-based services, TraffGain runs 100% **locally** from your PC or server. That means full control, better security, no third-party access to your credentials, and no subscription limits. You can manage **unlimited accounts**, use **custom proxy configurations**, and take advantage of our rich set of automation features for publishing, engagement, and audience growth.
+
+Whether you're building a brand, running dozens of fanpages, growing client accounts, or managing personal profiles – **TraffGain is the ultimate tool for social media automation**.
+
+🌐 Official Website: [www.traffgain.com](https://traffgain.com)  
+💬 Discord Community: [Join Us](https://discord.gg/3GeG5wr8mH)  
 📲 Telegram: [@stefekdziura](https://t.me/stefekdziura)
 
 ---
 
-## 🚀 Key Features
+## 🚀 Core Benefits
 
-### Facebook – Personal Profile
-- ✅ **Post Planner** – schedule posts in advance  
-- ✅ **Stories Planner** – schedule Facebook stories  
-- ✅ **Auto Proposed** – auto-suggest users to add  
-- ✅ **Auto Poster Private** – post to your personal profile  
-- ✅ **Auto Poster Group** – publish posts to groups  
-- ✅ **Auto Add to Group** – join Facebook groups automatically  
-- ✅ **Auto Acceptance of Friends** – auto-accept friend requests  
-- ✅ **Auto Unfriender** – auto-remove friends  
-- ✅ **Mass Poker** – mass poke users  
-- ✅ **Random Post Liker** – auto-like random posts  
-- ✅ **Random Comment Typer** – auto-type random comments  
-- ✅ **Add Scraped People** – add scraped users automatically  
-- ✅ **Auto Responder (Beta)** – reply to unencrypted DMs  
-- ✅ **Auto Stories Poster** – auto-publish Facebook stories
-
-### Facebook – Fanpage
-- ✅ **Post Planner** – schedule posts in advance  
-- ✅ **Auto Poster Fanpage** – publish posts on your fanpage  
-- ✅ **Auto Poster Fanpage Group** – post in groups as your fanpage  
-- ✅ **Auto Add to Fanpage** – invite users to like your fanpage
-
-### Instagram Automation
-- ✅ **Post Planner** – schedule Instagram posts  
-- ✅ **Stories Planner** – schedule stories  
-- ✅ **Auto Poster** – auto-publish to Instagram  
-- ✅ **Auto Stories Poster** – auto-publish stories  
-- ✅ **Follow from Likes (Beta)** – follow users who liked posts  
-- ✅ **Instagram Interact Bot** – auto-like, auto-comment, and view stories
+- 🔒 **Local execution** – All actions run directly from your computer (no 3rd-party servers)
+- ♾️ **No account limits** – Automate unlimited profiles and fanpages
+- 🌍 **Proxy support** – Use per-account proxies to stay secure and reduce blocks
+- 🧠 **Smart behavior simulation** – Designed to mimic human activity and reduce detection
+- ⚙️ **Flexible scheduling** – Plan posts, stories, and interactions with precision
+- 📊 **All-in-one control panel** – Manage everything from a simple interface
 
 ---
 
-## 🔧 Tech Highlights
+## 📲 Features Overview
 
-- ⚡ Works 100% **locally** – you control everything  
-- 🌍 **Proxy support** – use your own proxies per account  
-- ♾️ **No limit on accounts** – manage as many profiles as you want  
-- 🛡️ Designed to **minimize blocks and bans** by simulating real behavior  
-- 🔄 API-safe integration using browser cookies
+### ✅ Facebook Personal Profile Automation
+- **Post Planner** – Schedule Facebook posts in advance
+- **Stories Planner** – Automatically publish stories
+- **Auto Add Suggestions** – Add suggested friends
+- **Auto Poster (Private)** – Publish to your own profile timeline
+- **Auto Poster (Groups)** – Publish to Facebook groups
+- **Auto Group Joiner** – Automatically join selected Facebook groups
+- **Friend Request Manager** – Accept/decline friend requests
+- **Mass Unfriender** – Clean up friend list
+- **Mass Poker** – Send pokes to multiple users
+- **Random Liker** – Like random posts automatically
+- **Comment Generator** – Post randomized comments
+- **Scraped User Adder** – Add users from scraped lists
+- **Auto Responder (Beta)** – Respond to direct messages
+- **Auto Story Publisher** – Automatically post stories
+
+### ✅ Facebook Fanpage Automation
+- **Fanpage Post Planner** – Schedule content on fanpages
+- **Auto Poster (Fanpage)** – Post directly as a fanpage
+- **Auto Poster (Fanpage to Group)** – Post to groups from your fanpage
+- **Auto Invite to Like Fanpage** – Grow fanpage followers
+
+### ✅ Instagram Bot Features
+- **Post Scheduler** – Plan and schedule posts to Instagram
+- **Story Scheduler** – Plan and auto-post stories
+- **Auto Poster** – Publish content automatically
+- **Auto Story Publisher** – Publish stories automatically
+- **Follow From Likes (Beta)** – Target users who liked certain posts
+- **Instagram Engagement Bot** – Auto-like, auto-comment, auto-story view
+
+And much more!
 
 ---
 
-## 📌 Notes
+## 💼 Who is it for?
 
-TraffGain is intended for educational and personal use.  
-Please comply with all platform terms and community guidelines.
+- Social media agencies managing multiple clients
+- Influencers scaling organic engagement
+- Affiliate marketers needing automation at scale
+- Brands automating fanpage & Instagram outreach
+- Automation enthusiasts
+
+Whether you're using 1 or 100+ accounts, **TraffGain scales with you**.
 
 ---
 
-## 📥 Get Started
+## 🧠 Technical Highlights
 
-> Visit [www.traffgain.com](https://traffgain.com) for setup instructions and updates.
+- ⚡ Lightweight & fast execution
+- 🔧 Cookie-based session management (safe API interaction)
+- 💡 Designed for 24/7 operation
+- 📦 No hard limits or licensing checks
+- 🧩 Modular and constantly updated to match platform changes
 
 ---
 
-**Join our Community:**  
-[💬 Discord](https://discord.gg/3GeG5wr8mH) | [📲 Telegram](https://t.me/stefekdziura)
+This tool includes advanced features for:
+- **Instagram automation**
+- **Facebook profile posting automation**
+- **Facebook group posting bot**
+- **Fanpage content scheduler**
+- **Social media engagement bot**
+- **Story automation bot for Instagram & Facebook**
+- **Multi-account automation**
+- **Proxy-enabled bot**
+- **Private desktop social media tool**
+
+---
+
+## 🛠️ Installation & Usage
+
+Check on [www.traffgain.com](https://traffgain.com)
+
+For help and documentation, join our:
+- [Discord server](https://discord.gg/3GeG5wr8mH)
+- [Telegram support](https://t.me/stefekdziura)
+
+---
+
+## 📌 Disclaimer
+
+> TraffGain is an educational and research tool for personal use only.  
+> Users are responsible for complying with Facebook and Instagram terms of service.
+
+---
+
+## ❤️ Like this project?
+
+Star ⭐ the repo and share it with others who love **ethical social media automation**!
+

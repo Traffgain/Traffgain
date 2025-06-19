@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="[https://i.imgur.com/tYapzOE.png](https://i.imgur.com/IQl4vgZ.png)" alt="Gui" width="400" />
+</p>
+
 ## 🔥 Why TraffGain?
 
 **TraffGain** is a next-generation **social media automation platform** built for creators, marketers, agencies, and power users who want to scale their presence on **Facebook**, **Instagram**, and **Facebook Fanpages** – all directly from their own machine.
